@@ -134,4 +134,4 @@ async def coinflip(ctx):
     await ctx.send(rancoin)
 
 ###########-run the bot-###########
-client.run('OTExNTU0OTcwMTcwNTU2NDM3.YZjFuA._ZxtfVVpZBRLeI4qJbsoD5ehMpI')
+client.run('A TE BOTOD TOKENJE')
